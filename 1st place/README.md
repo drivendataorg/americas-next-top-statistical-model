@@ -1,7 +1,7 @@
 ![Banner Image](https://s3.amazonaws.com/drivendata/comp_images/electoral_map_1.jpg)
 
 # America's Next Top (Statistical) Model - 1st Place
-
+<br><br>
 # Entrant Background and Submission Overview
 
 ### Mini-bio
@@ -22,6 +22,7 @@ Mostly followed my gut feeling and compared with other predictions like 538, the
 ### Future Steps
 The demographic prediction was done on a state level. But states can be huge and have large differences within them. The differences between city and the country side for example. And old and young. But lots of these differences are averaged out on a state level. In my research career I did lots of predictions on much lower levels (for instance zip codes in the Netherlands, who are on average 20 houses big), and those work out much better for analyses and predications like these.
 
+<br><br>
 # Replicating the Submission
 
 * I used R/R-studio for the analyses. Some data wrangling was done in excel. But only to order data and combine data from different sources and clean some small things up. All data files that resulted from this are in the "Files" folder.

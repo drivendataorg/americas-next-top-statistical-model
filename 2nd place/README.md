@@ -1,7 +1,7 @@
 ![Banner Image](https://s3.amazonaws.com/drivendata/comp_images/electoral_map_1.jpg)
 
 # America's Next Top (Statistical) Model - 2nd Place
-
+<br><br>
 # Entrant Background and Submission Overview
 
 ### Mini-bio
