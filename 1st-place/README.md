@@ -5,7 +5,7 @@
 # Entrant Background and Submission Overview
 
 ### Mini-bio
-I am a (quantitative) policy researcher. First I worked for ten years in a policy research institute where I did research on the livability and housing market in the Netherlands. And since 6 months I work for the XXXXXX as a researcher on income policy, employment en (income) inequality. My research is mostly quantitative and (socio)-geographic. I studied political science and economics.
+I am a (quantitative) policy researcher. First I worked for ten years in a policy research institute where I did research on the livability and housing market in the Netherlands. And since 6 months I work as a researcher on income policy, employment en (income) inequality. My research is mostly quantitative and (socio)-geographic. I studied political science and economics.
 
 ### High Level Summary of Submission
 I used the polls as published by 538. These are already adjusted for some basic trends. I used these polls to make 3 predictions. The first is just an average prediction based on the state polls. The second is a prediction based on demographics. I used regression analyses to predict state results based on demographic variables. And the third prediction is based on polls of comparable states. I used a cluster analysis to find 5 groups of comparable states and within those groups a similarity index is used to create weights which polls are more important. The final prediction is based on a mixture of the three partial predictions. The more polls a state has, the more the final prediction is based on its own polls and less with demographics and polls from other states. Also recent polls have a much higher weight.

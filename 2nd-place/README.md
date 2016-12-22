@@ -4,15 +4,7 @@
 <br><br>
 # Entrant Background and Submission Overview
 
-### Mini-bio
-
-XXXXXX specializes in Diversity Analytics at XXXXXX, and has a variety of experience leading people analytics projects and teams in a variety of different industries.  XXXXXX has a keen interest in predictive modeling, and regularly competes in prediction modeling competitions to hone his skills in this space.  XXXXXX speaks at a variety of People Analytics conferences throughout the year, with topics related to open sourced workforce analytics, predictive employee attrition modeling, and data visualization.
-
-XXXXXX oversees executive communications at XXXXXX Office of Global Diversity with vast experience in developing successful media strategies in a variety of global arenas including energy, high tech and sports & entertainment. XXXXXX, a former award-winning journalist who has written for the XXXXXX and XXXXXX, covered politics for more than 15 years at all levels of governments, from interviewing U.S. Presidents to reporting on county government. He also worked as a public affairs/media strategist on high profile government projects such as the East Coast expansion rollout of XXXXXX, the largest electronic toll collection conversion project in the world.
-
 ### High Level Summary of Submission
-
-XXXXXX and XXXXXX teamed up to strike the right balance between domain knowledge and predictive modeling expertise.  XXXXXX has over 10 years of experience in predictive modeling.  XXXXXX has more than 15 years of expertise in covering elections as a journalist and managing campaign media coverage and messaging as a public affairs/media strategist.
 
 First, we pulled together historical election results by state from the federal election campaign.  We then built a model for predicting the 2012 election using a simple weighted average approach.  The root mean squared error of 1.76 performed better than the Poll Benchmark, and would have outperformed top election modelers (1.86 from Nate Silver in 2012).
 
@@ -27,7 +19,7 @@ Second, we categorized states into the following scenarios;
 * Mormon Corridor Pattern
 * Trend
 
-These categories were assigned to each state using the critical and extensive domain knowledge from XXXXXX, and the modeling expertise from XXXXXX.  It was an iterative process.  Domain knowledge from XXXXXX would be researched and tested before assigning the scenario (e.g. education levels, ethnicity, religion demographics, GDP, presidential approval ratings, etc.).
+These categories were assigned to each state using critical and extensive domain knowledge, and modeling expertise.  It was an iterative process.  Domain knowledge would be researched and tested before assigning the scenario (e.g. education levels, ethnicity, religion demographics, GDP, presidential approval ratings, etc.).
 
 After the scenarios were assigned to each state, a modeling method was applied to produce the prediction (weighted average, average trend, etc.).
 
