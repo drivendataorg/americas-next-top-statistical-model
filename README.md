@@ -1,4 +1,4 @@
-[<img src='https://drivendata.s3.amazonaws.com/images/drivendata.png'>](https://www.drivendata.org/)
+[<img src='https://community.drivendata.org/uploads/default/optimized/1X/e055d38472b1ae95f54110375180ceb4449c026b_1_690x111.png'>](https://www.drivendata.org/)
 <br><br>
 
 ![Banner Image](https://s3.amazonaws.com/drivendata/comp_images/electoral_map_1.jpg)
@@ -22,3 +22,5 @@ Place |Team or User | Score | Summary of Model
 2 | Noriega-Santoyo | 0.0280 | Categories were assigned to each state using critical and extensive domain knowledge, and modeling expertise.  After the scenarios were assigned to each state, a modeling method was applied to produce the prediction (weighted average, average trend, etc.).
 
 #### Competition Blog Post: ["Trying to Get it Right when Everyone was Wrong"](http://blog.drivendata.org/2016/12/20/election-results/)
+
+#### Benchmark Blog Post: ["America's Next Top (Statistical) Model - Benchmark"](http://blog.drivendata.org/2016/10/13/election-benchmark/)
