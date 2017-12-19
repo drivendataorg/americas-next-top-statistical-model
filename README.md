@@ -13,11 +13,12 @@ In this challenge, you'll predict the percent of each state that will vote for e
 ## What's in this Repository
 This repository contains code volunteered from leading competitors in the [America's Next Top (Statistical) Model](https://www.drivendata.org/competitions/43/) on DrivenData.
 
+#### Winning code for other DrivenData competitions is available in the [competition-winners repository](https://github.com/drivendataorg/competition-winners).
 
 ## Winning Submissions
 
 Place |Team or User | Score | Summary of Model
---- | --- | --- | --- | --- | ---
+--- | --- | --- | --- 
 1 | tallmeasure | 0.0244 | I used these polls to make 3 predictions. The first is just an average prediction based on the state polls. The second is a prediction based on demographics. I used regression analyses to predict state results based on demographic variables. And the third prediction is based on polls of comparable states.
 2 | Noriega-Santoyo | 0.0280 | Categories were assigned to each state using critical and extensive domain knowledge, and modeling expertise.  After the scenarios were assigned to each state, a modeling method was applied to produce the prediction (weighted average, average trend, etc.).
 
