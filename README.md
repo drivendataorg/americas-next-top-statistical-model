@@ -11,7 +11,7 @@ US presidential elections come but once every 4 years, and this one's a big one.
 In this challenge, you'll predict the percent of each state that will vote for each candidate. You can use any data you can get your hands on. Come election night, we'll see who's model had the best vision for the country!
 
 ## What's in this Repository
-This repository contains code volunteered from leading competitors in the [America's Next Top (Statistical) Model](https://www.drivendata.org/competitions/43/) on DrivenData.
+This repository contains code volunteered from leading competitors in the [America's Next Top (Statistical) Model](https://www.drivendata.org/competitions/43/) on DrivenData. Included code is open source under the MIT License.
 
 #### Winning code for other DrivenData competitions is available in the [competition-winners repository](https://github.com/drivendataorg/competition-winners).
 
